@@ -9,6 +9,10 @@
 
 /*Bicicletas*/
 @import url(./bicicletas/bicicletas-lista.css);
+
+/*Seguros*/
+@import url(./seguros/seguros.css);
+
 /* Utilidades */
 @import url(./utilidades/componentes.css);
 @import url(./utilidades/tipografia.css);
