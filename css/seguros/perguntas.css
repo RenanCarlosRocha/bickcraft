@@ -50,10 +50,10 @@
   transition: 0.3s;
 }
 
-.perguntas dd {
+.js .perguntas dd {
   display: none;
 }
-.perguntas dd.ativo {
+.js .perguntas dd.ativo {
   display: block;
 }
 
